@@ -52,4 +52,9 @@ inputForm.addEventListener('submit', function(e){
     }
     allObjects()
     inputAll.style.overflowY = 'scroll'
+    inputName.value = ""
+    inputAbout.value = ""
+    inputAge.value = ""
+    inputName.value = ""
+    inputImg.value = ""
 })
